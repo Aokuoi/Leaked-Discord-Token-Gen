@@ -1,5 +1,5 @@
 This is a request gen that I have decided to leak. I am sick of seeing money hungry idiots
-selling these for 5k + and genuienly hate the "token" community so much that I hope this helps
+selling these for 5k + and I genuienly hate the "token" community so much that I hope this helps
 prevent these idiots making some money.
 
 These steps are from my understanding of it:
