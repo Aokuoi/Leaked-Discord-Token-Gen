@@ -13,4 +13,4 @@ These steps are from my understanding of it:
 4) Captcha service + api in config.yml
 
 
-If ya have any troubles message me on telegram: @
+If you have any troubles message me on telegram: @azzukio
